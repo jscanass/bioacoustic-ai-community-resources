@@ -22,6 +22,7 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 2024
 ----
 
+* July 8-12, WEC (Madrid, Spain) https://ecoacoustics2024.org/
 * Aug 26–30, EUSIPCO (Lyon, FR) https://eusipcolyon.sciencesconf.org/ (including a session on [Signal Analysis for Biodiversity](http://mcld.co.uk/blog/2024/eusipco-2024-special-session-signal-analysis-for-biodiversity.html))
 * Sep 1–5, InterSpeech (Kos, GR) https://interspeech2024.org/
 * Sep 1-6, African Bioacoustics Conference (Cape Town, SA) https://www.africanbioacoustics.org/
