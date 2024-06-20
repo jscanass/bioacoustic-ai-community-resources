@@ -32,6 +32,7 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 * Sep 18–20, CBMI (Reykjavik, IS) https://cbmi2024.org/
 * Sep 22–25, MLSP (London, UK) https://signalprocessingsociety.org/blog/mlsp-2024-2024-ieee-international-workshop-machine-learning-signal-processing
 * Sep 26–28, Speculative Synthesis  (Graz, AT) https://speculativesoundsynthesis.iem.sh/symposium/
+* Sept 29-Oct 4, ECCV (Milan, Italy) https://eccv.ecva.net/ (including a workshop on [Computer Vision for Ecology](https://cv4e.netlify.app/))
 * Sep 30–Oct, Internet of Sounds https://internetofsounds.net/is2_2024/
 * Oct 23–25, DCASE (Tokyo, JP) https://dcase.community/workshop2024/index
 * Nov 10–14, ISMIR (San Francisco, US) https://ismir2024.ismir.net/
